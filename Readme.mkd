@@ -1,0 +1,7 @@
+La libreria typing basicamente sirve para facilitar la lectura del codigo en plan si tienes:
+
+#prueba1: Dict[str:List[str]] ={
+#ob1 : [pala,pico,espada]
+#}
+
+esos te dice q tienes un diccionario donde la llave es ob1 q es un string y los valores son strings guardados en otra lista en este caso seria la lista [pala,pico espada] dodnde pala,pico,espada son strings
